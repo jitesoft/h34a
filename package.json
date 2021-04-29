@@ -1,0 +1,11 @@
+{
+  "name": "h34a",
+  "version": "0.0.3",
+  "description": "Shorten words by replacing everything between the first and last letter with the number of letters in-between. Perfect package for anyone with hippopotomonstrosesquippedaliophobia (h34a).",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johannes Tegnér <johannes@jitesoft.com>",
+  "license": "MIT"
+}
