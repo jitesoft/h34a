@@ -1,6 +1,6 @@
 {
   "name": "h34a",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Shorten words by replacing everything between the first and last letter with the number of letters in-between. Perfect package for anyone with hippopotomonstrosesquippedaliophobia (h34a).",
   "main": "index.mjs",
   "scripts": {
@@ -8,8 +8,16 @@
   },
   "author": "Johannes Tegnér <johannes@jitesoft.com>",
   "license": "SEE LICENSE IN LICENSE",
-      "repository": {
-        "type": "git",
-        "url": "https://github.com/jitesoft/h34a.git"
-    },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jitesoft/h34a.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jitesoft/h34a/issues"
+  },
+  "keywords": [
+    "s5n",
+    "a5e",
+    "j6t"
+  ]
 }
